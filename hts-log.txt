@@ -1,0 +1,32 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 26 Jan 2017 10:10:38 at http://stanton.ice.put.poznan.pl/nowak/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://stanton.ice.put.poznan.pl/nowak/ -O1 "C:\Users\Dominik\Desktop\Nwww\Nwww" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:10:38	Warning: 	Note: due to stanton.ice.put.poznan.pl remote robots.txt rules, links beginning with these path will be forbidden: /student/ (see in the options to disable this)
+10:54:03	Error: 	"Not Found" (404) at link stanton.ice.put.poznan.pl/nowak/wp-content/themes/regulus/images/bg_9.jpg (from stanton.ice.put.poznan.pl/nowak/wp-content/themes/regulus/style.css)
+11:07:45	Error: 	"Not Found" (404) at link www.ptmkm.pl/sites/default/files/MS05_12_2013.pdf (from stanton.ice.put.poznan.pl/nowak/publications/)
+11:07:45	Error: 	"Not Found" (404) at link www.ptmkm.pl/sites/default/files/TS04_03_2013.pdf (from stanton.ice.put.poznan.pl/nowak/publications/)
+11:07:45	Error: 	"Not Found" (404) at link www.ptmkm.pl/sites/default/files/TS02_03_2013.pdf (from stanton.ice.put.poznan.pl/nowak/publications/)
+11:07:45	Error: 	"Not Found" (404) at link stanton.ice.put.poznan.pl/nowak/images/ictam1.jpg (from stanton.ice.put.poznan.pl/nowak/publications/)
+11:07:45	Error: 	"Not Found" (404) at link stanton.ice.put.poznan.pl/nowak/images/ictam2.jpg (from stanton.ice.put.poznan.pl/nowak/publications/)
+11:07:45	Error: 	"Not Found" (404) at link stanton.ice.put.poznan.pl/nowak/tekst1.html (from stanton.ice.put.poznan.pl/nowak/publications/)
+11:07:45	Error: 	"Not Found" (404) at link stanton.ice.put.poznan.pl/nowak/gallery/void(0) (from stanton.ice.put.poznan.pl/nowak/gallery/)
+11:07:45	Error: 	"Not Found" (404) at link stanton.ice.put.poznan.pl/nowak/studenci-a.html (from stanton.ice.put.poznan.pl/nowak/studenci/)
+11:07:45	Error: 	"Not Found" (404) at link stanton.ice.put.poznan.pl/nowak/images/flaga-a.gif (from stanton.ice.put.poznan.pl/nowak/studenci/)
+11:07:45	Error: 	"Not Found" (404) at link https://www.put.poznan.pl/studia/ECTS/MRiT/MiBM/SC/pdf/p-59-1-B8-3.pdf (from stanton.ice.put.poznan.pl/nowak/studenci/)
+11:07:45	Warning: 	Moved Permanently for stanton.ice.put.poznan.pl/nowak/?p=3
+11:07:45	Warning: 	File has moved from stanton.ice.put.poznan.pl/nowak/?p=3 to http://stanton.ice.put.poznan.pl/nowak/2007/12/15/current-information/
+11:07:45	Warning: 	Found for stanton.ice.put.poznan.pl/nowak/2007/12/15/current-information/trackback/
+11:07:45	Warning: 	File has moved from stanton.ice.put.poznan.pl/nowak/2007/12/15/current-information/trackback/ to http://stanton.ice.put.poznan.pl/nowak/2007/12/15/current-information/
+11:07:45	Warning: 	Moved Permanently for stanton.ice.put.poznan.pl/nowak/?p=1
+11:07:45	Warning: 	File has moved from stanton.ice.put.poznan.pl/nowak/?p=1 to http://stanton.ice.put.poznan.pl/nowak/2007/12/14/hello-world/
+11:07:45	Warning: 	Found for stanton.ice.put.poznan.pl/nowak/2007/12/14/hello-world/trackback/
+11:07:45	Warning: 	File has moved from stanton.ice.put.poznan.pl/nowak/2007/12/14/hello-world/trackback/ to http://stanton.ice.put.poznan.pl/nowak/2007/12/14/hello-world/
+11:07:45	Error: 	"Not Found" (404) at link stanton.ice.put.poznan.pl/nowak/files/2009/03/promotor_pliki/filelist.xml (from stanton.ice.put.poznan.pl/nowak/files/2009/03/promotor.html)
+
+HTTrack Website Copier/3.48-22 mirror complete in 57 minutes 7 seconds : 84 links scanned, 67 files written (84839817 bytes overall) [84942059 bytes received at 24786 bytes/sec], 483 bytes transferred using HTTP compression in 2 files, ratio 81%, 2.8 requests per connection
+(12 errors, 9 warnings, 0 messages)
